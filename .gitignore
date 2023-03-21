@@ -2,3 +2,9 @@ model training/default_training/datasets
 model training/default_training/image_data
 model training/default_training/yolov5
 model training/default_training/.ipynb_checkpoints
+
+model training/alternative_training/datasets
+model training/alternative_training/images
+model training/alternative_training/image_data
+model training/alternative_training/videos
+model training/alternative_training/.ipynb_checkpoints
